@@ -1,0 +1,6 @@
+* {
+  margin: 0;
+  padding: 0;
+  /* 不会因为边距撑开盒子 */
+  box-sizing: border-box;
+}
